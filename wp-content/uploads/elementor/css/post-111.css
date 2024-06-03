@@ -1,0 +1,49 @@
+.elementor-111 .elementor-element.elementor-element-77b501b{margin-top:250px;margin-bottom:0px;}.elementor-111 .elementor-element.elementor-element-c289efe .entry-media img{border-radius:15px 15px 15px 15px !important;}.elementor-111 .elementor-element.elementor-element-c289efe .entry-title a{color:var( --e-global-color-434e96be );font-family:"Poppins", Sans-serif;font-size:24px;font-weight:500;line-height:35px;}.elementor-111 .elementor-element.elementor-element-c289efe .entry-info a, .elementor-111 .elementor-element.elementor-element-c289efe .entry-info{color:var( --e-global-color-text );}.elementor-111 .elementor-element.elementor-element-c289efe .entry-info, .elementor-111 .elementor-element.elementor-element-c289efe .entry-info a{font-family:"Poppins", Sans-serif;font-size:15px;font-weight:400;letter-spacing:0.9px;}.elementor-111 .elementor-element.elementor-element-c289efe .entry-info{margin-bottom:7px;}.elementor-111 .elementor-element.elementor-element-c289efe .column-entry{padding:0px 0px 0px 0px;}.elementor-111 .elementor-element.elementor-element-c289efe .type-post .entry-main{padding:21px 30px 21px 30px;}.elementor-111 .elementor-element.elementor-element-c289efe{text-align:left;}@media(max-width:1024px){.elementor-111 .elementor-element.elementor-element-c289efe .entry-title a{font-size:20px;}.elementor-111 .elementor-element.elementor-element-c289efe .entry-info, .elementor-111 .elementor-element.elementor-element-c289efe .entry-info a{font-size:13px;}.elementor-111 .elementor-element.elementor-element-c289efe .type-post .entry-main{padding:15px 0px 15px 0px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-c289efe */.elementor-111 .elementor-element.elementor-element-c289efe .aux-after-content, .elementor-111 .elementor-element.elementor-element-c289efe .entry-content{
+    display: none;
+}
+.elementor-111 .elementor-element.elementor-element-c289efe .entry-main{
+    width: 89%;
+}
+.elementor-111 .elementor-element.elementor-element-c289efe .entry-main {
+    min-height: 118px;
+    border-radius: 15px;
+    box-shadow: 0px 3px 45px rgba(0,0,0,0.33);
+}
+.elementor-111 .elementor-element.elementor-element-c289efe .entry-title{
+    position: relative;
+}
+.elementor-111 .elementor-element.elementor-element-c289efe .entry-title:after{
+    content: '';
+    width: 30px;
+    height: 6px;
+    background: var(--e-global-color-secondary);
+    background: linear-gradient(277deg, var(--e-global-color-secondary) 4%, var(--e-global-color-primary) 84%);
+    position: absolute;
+    border-radius:8px ;
+    left:-39px;
+    top: 15px;
+}
+.elementor-111 .elementor-element.elementor-element-c289efe .entry-title, .elementor-111 .elementor-element.elementor-element-c289efe .entry-info{
+    margin-left: 11%;
+    overflow: visible!important;
+}
+.elementor-111 .elementor-element.elementor-element-c289efe .aux-col:hover .entry-main{
+    background: var(--e-global-color-secondary);
+    background: linear-gradient(180deg, var(--e-global-color-secondary) 4%, var(--e-global-color-primary) 84%);
+    box-shadow: 0 3px 25px #4D0AA480;
+}
+.elementor-111 .elementor-element.elementor-element-c289efe .aux-col:hover .entry-date a, .elementor-111 .elementor-element.elementor-element-c289efe .aux-col:hover .entry-title a{
+    color: #fff!important;
+}
+.elementor-111 .elementor-element.elementor-element-c289efe .aux-col:hover .entry-title:after{
+    background: #fff!important;
+}
+@media only screen and (max-width: 1406px) {
+.elementor-111 .elementor-element.elementor-element-c289efe .entry-info a{
+    font-size: 13px;
+} 
+.elementor-111 .elementor-element.elementor-element-c289efe .entry-title a{
+    font-size: 20px;
+    line-height: 30px;
+}  
+}/* End custom CSS */
